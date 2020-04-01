@@ -1,3 +1,7 @@
 .flexblock.features li img {
   width: 100%;
 }
+
+.flexblock.reasons li:before {
+  font-size: 3rem;
+}
